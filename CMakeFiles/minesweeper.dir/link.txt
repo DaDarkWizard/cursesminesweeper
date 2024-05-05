@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/minesweeper.dir/main.c.o CMakeFiles/minesweeper.dir/game.c.o -o minesweeper  -lncurses /usr/lib/x86_64-linux-gnu/libform.so 

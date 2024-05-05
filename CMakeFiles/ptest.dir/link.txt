@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ptest.dir/paneltest.c.o -o ptest  /usr/lib/x86_64-linux-gnu/libpanel.so -lncurses /usr/lib/x86_64-linux-gnu/libform.so 

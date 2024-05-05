@@ -1,0 +1,4 @@
+/home/dasker/source/repos/curses/minesweeper/CMakeFiles/minesweeper.dir
+/home/dasker/source/repos/curses/minesweeper/CMakeFiles/ptest.dir
+/home/dasker/source/repos/curses/minesweeper/CMakeFiles/edit_cache.dir
+/home/dasker/source/repos/curses/minesweeper/CMakeFiles/rebuild_cache.dir
